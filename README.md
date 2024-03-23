@@ -6,7 +6,6 @@
   <a href="https://beacons.ai/Berghtx">
     
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berghtx\&rank_icon=github\&theme=radical)
-  
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berghtx&layout=compact&langs_count=16&theme-dracula&rank_icon=github"/> <p></p>
 </div>
 
