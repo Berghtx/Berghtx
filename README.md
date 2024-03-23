@@ -12,6 +12,7 @@
 
 🔮  <b>Tema do VS Code é o SynthWave '84</b><p></p>
 
+## Linguagens usadas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
@@ -25,7 +26,7 @@
   <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
 </div>
   
-  ##
+  ## Contato
  
 <div> 
   <a href="https://www.instagram.com/otavio_silva8391/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
