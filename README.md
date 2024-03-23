@@ -1,12 +1,13 @@
 ## Olá! Eu sou o Bernardo
+<h3>
 
-💻 <b>Hoje sou apenas um estudante na área de TI</b><p></p>
+💻 <b>Hoje sou apenas um estudante na área de TI</b>  <br />
 
 <div>
-  <a href="https://beacons.ai/Berghtx">
+  <a href="https://beacons.ai/Berghtx"> 
     
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berghtx\&rank_icon=github\&theme=radical)
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berghtx&layout=compact&langs_count=16&theme-dracula&rank_icon=github"/> <p></p>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berghtx\&rank_icon=github\&theme=radical) 
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berghtx&layout=compact&langs_count=16&theme-dracula&rank_icon=github"/>
 </div>
 
 🔮  <b>Tema do VS Code é o SynthWave '84</b><p></p>
