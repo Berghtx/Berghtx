@@ -1,4 +1,4 @@
-## Olá! Eu sou o Bernardo
+## Olá! Bernardo aqui...
 <h3>
 
 💻 <b>Hoje sou apenas um estudante na área de TI</b>  <br />
