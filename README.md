@@ -6,12 +6,15 @@
 <div>
   <a href="https://beacons.ai/Berghtx"> 
     
-  <div style="display: flex; justify-content: center; gap: 32px;">
-    <a href="https://beacons.ai/Berghtx">
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berghtx&rank_icon=github&theme=radical)
-    </a>
+  <div>
+  <a href="https://beacons.ai/Berghtx">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berghtx\&rank_icon=github\&theme=radical)
+  </a>
+</div>
+
+<div style="margin-top: 32px;">
   <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berghtx&layout=compact&theme=radical&rank_icon=github"/>
-  </div>
+</div>
 
 </div>
 
