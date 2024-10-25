@@ -6,8 +6,13 @@
 <div>
   <a href="https://beacons.ai/Berghtx"> 
     
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berghtx\&rank_icon=github\&theme=radical) 
+  <div style="display: flex; justify-content: center; gap: 32px;">
+    <a href="https://beacons.ai/Berghtx">
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berghtx&rank_icon=github&theme=radical)
+    </a>
   <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berghtx&layout=compact&theme=radical&rank_icon=github"/>
+  </div>
+
 </div>
 
 🔮  <b>Tema do VS Code é o SynthWave '84</b><p></p>
