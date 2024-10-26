@@ -1,9 +1,9 @@
 
 Você
-## Olá! Bernardo aqui...
+## Hello! Bernardo here...
 <h3>
 
-💻 <b>Hoje sou apenas um estudante na área de TI</b>  <br />
+💻 <b>Today I'm just an IT student</b>  <br />
 
 <div>
   <a href="https://beacons.ai/Berghtx"> 
@@ -13,9 +13,9 @@ Você
 
 </div>
 
-🔮  <b>Tema do VS Code é o SynthWave '84</b><p></p>
+🔮  <b>VS Code theme is SynthWave '84</b><p></p>
 
-## Linguagens usadas
+## Languages used
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
@@ -29,7 +29,7 @@ Você
   <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
 </div>
   
-  ## Contato
+  ## Contact
  
 <div> 
   <a href="https://www.instagram.com/otavio_silva8391/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
