@@ -1,6 +1,6 @@
 <div align="center">
 
-## _______ Bernardo Gomes de Aguiar _______
+## _______|    Bernardo Gomes de Aguiar    |_______
 
 <h3>💻 <b>Today I'm just an IT student</b></h3>
 
