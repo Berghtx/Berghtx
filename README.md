@@ -1,6 +1,6 @@
 <div align="center">
 
-## Bernardo Gomes de Aguiar 
+<h2 style="color:#B206A1;">Bernardo Gomes de Aguiar</h2>
 
 <h3>💻 <b>Computer Engineering Student</b></h3> <br>
 
