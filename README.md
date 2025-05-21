@@ -2,7 +2,7 @@
 
 ## _______|    Bernardo Gomes de Aguiar    |_______
 
-<h3>💻 <b>Today I'm just an IT student</b></h3>
+<h3>💻 <b>Computer Engineering Student</b></h3>
 
 <a href="https://beacons.ai/Berghtx">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=berghtx&rank_icon=github&theme=radical" />
@@ -12,18 +12,18 @@
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berghtx&layout=compact&theme=radical&rank_icon=github"/>
 </a>
 
-🔮 <b>VS Code theme is SynthWave '84</b>
+🔮 <b>VS Code theme:</b> SynthWave '84
 
 ---
 
-## 🚀 Languages used
+## 🚀 Tech Stack
 
 <div style="display: inline_block">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -32,7 +32,7 @@
 
 ---
 
-## 📬 Contact
+## 📬 Let's Connect
 
 <div>
   <a href="https://www.instagram.com/otavio_silva8391/" target="_blank">
