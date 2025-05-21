@@ -4,13 +4,14 @@
 
 <h3>💻 <b>Computer Engineering Student</b></h3>
 
-<a href="https://beacons.ai/Berghtx">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=berghtx&rank_icon=github&theme=radical" />
-</a>
-<br>
-<a href="https://beacons.ai/Berghtx">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berghtx&layout=compact&theme=radical&rank_icon=github"/>
-</a>
+<div>
+  <a href="https://beacons.ai/Berghtx">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=berghtx&rank_icon=github&theme=radical" />
+  </a>
+  <a href="https://beacons.ai/Berghtx">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berghtx&layout=compact&theme=radical&rank_icon=github"/>
+  </a>
+</div>
 
 🔮 <b>VS Code theme:</b> SynthWave '84
 
