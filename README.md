@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hello! Bernardo here...
+## _______ Bernardo Gomes de Aguiar _______
 
 <h3>💻 <b>Today I'm just an IT student</b></h3>
 
