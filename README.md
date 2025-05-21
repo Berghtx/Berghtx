@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Bernardo%20Gomes%20de%20Aguiar-%23B206A1.svg?style=for-the-badge&color=B206A1&logoColor=white">
+<img src="https://img.shields.io/badge/Bernardo%20Gomes%20de%20Aguiar-%23B206A1.svg?style=for-the-badge&color=F34B7D&logoColor=white">
 
 <h3>💻 <b>Computer Engineering Student</b></h3>
 
