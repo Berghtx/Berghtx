@@ -2,7 +2,7 @@
 
 <h1 style="color:#F34B7D;">Bernardo Gomes de Aguiar</h1>
 
-<h3><b>💻 Computer Engineering Student at UFJF | Technical background</b></h3> <br>
+<h3><b>💻 Computer Engineering Student | Technical background</b></h3> <br>
 
 <div>
   <a href="https://beacons.ai/Berghtx">
