@@ -1,6 +1,6 @@
 <div align="center">
 
-## _______|    Bernardo Gomes de Aguiar    |_______
+## Bernardo Gomes de Aguiar 
 
 <h3>💻 <b>Computer Engineering Student</b></h3>
 
