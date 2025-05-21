@@ -14,8 +14,6 @@
 
 🔮 <b>VS Code theme:</b> SynthWave '84
 
----
-
 ## 🚀 Tech Stack
 
 <div style="display: inline_block">
