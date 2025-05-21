@@ -2,7 +2,7 @@
 
 <h2 style="color:#B206A1;">Bernardo Gomes de Aguiar</h2>
 
-<h3>💻 <b>Computer Engineering Student</b></h3> <br>
+<h3>💻 <b>Computer Engineering Student</b></h3>
 
 <div>
   <a href="https://beacons.ai/Berghtx">
@@ -12,6 +12,8 @@
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berghtx&layout=compact&theme=radical&rank_icon=github"/>
   </a>
 </div>
+
+<div style="margin-bottom: 20px;"></div>
 
 🔮 <b>VS Code theme:</b> SynthWave '84
 
@@ -27,7 +29,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
-</div> <br>
+</div>
 
 ## 📬 Let's Connect
 
