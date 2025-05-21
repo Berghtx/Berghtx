@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Bernardo%20Gomes%20de%20Aguiar-%23B206A1.svg?style=for-the-badge&color=F34B7D&logoColor=white">
+<h1 style="color:#F34B7D;">Bernardo Gomes de Aguiar</h1>
 
 <h3>💻 <b>Computer Engineering Student</b></h3>
 
