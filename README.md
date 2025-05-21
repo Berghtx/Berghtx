@@ -3,8 +3,7 @@
 <h1 style="color:#F34B7D;">Bernardo Gomes de Aguiar</h1>
 
 <h3><b>💻 Computer Engineering Student at UFJF | Technical background in IT from CEFET-MG
-Web development experience: HTML, CSS & PHP
-Eager to learn and grow in IT | Open to opportunities</b></h3> <br>
+Web development experience: HTML, CSS & PHP </b></h3> <br>
 
 <div>
   <a href="https://beacons.ai/Berghtx">
