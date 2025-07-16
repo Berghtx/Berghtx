@@ -15,7 +15,7 @@ jobs:
       - name: Generate the Snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: berghtx
+          github_user_name: Berghtx
           outputs: |
             ./output/snake.svg
 
