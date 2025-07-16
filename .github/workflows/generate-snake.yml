@@ -22,6 +22,6 @@ jobs:
       - name: Commit and push the animation
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: github-actions
-          author_email: github-actions@github.com
+          author_name: Berghtx
+          author_email: bernardogomes146@gmail.com
           message: "Generate snake animation"
