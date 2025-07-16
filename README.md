@@ -48,6 +48,6 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Berghtx/Berghtx/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Berghtx/Berghtx/main/output/snake.svg" alt="Snake animation" />
 </p>
 
