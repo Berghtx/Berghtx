@@ -1,0 +1,27 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa todos os dias à meia-noite (UTC)
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v3
+
+      - name: Generate the Snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: berghtx
+          outputs: |
+            ./output/snake.svg
+
+      - name: Commit and push the animation
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: Berghtx
+          author_email: bernardogomes146@gmail.com
+          message: "Generate snake animation"
