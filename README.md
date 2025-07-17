@@ -47,3 +47,7 @@
 
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Berghtx/Berghtx/main/output/snake.svg" alt="Snake animation" />
+</div>
+
