@@ -47,6 +47,7 @@
 
 </div>
 
-<p align="center">
+<div style="background-color: #0d1117; padding: 10px; border-radius: 10px;" align="center">
   <img src="https://raw.githubusercontent.com/Berghtx/Berghtx/main/output/snake.svg" alt="Snake animation" />
-</p>
+</div>
+
