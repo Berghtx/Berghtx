@@ -18,7 +18,7 @@ jobs:
           github_user_name: Berghtx
           outputs: |
             ./output/snake.svg
-          palette: github-dark
+          palette: github-dark-dimmed
 
       - name: Commit and push the animation
         uses: EndBug/add-and-commit@v9
