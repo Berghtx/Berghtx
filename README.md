@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="color:#F34B7D;">Bernardo Gomes de Aguiar</h1>
+<h1>Bernardo Gomes de Aguiar</h1>
 
 <h3><b>💻 Computer Engineering Student | Technical background</b></h3> <br>
 
