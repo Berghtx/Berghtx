@@ -15,10 +15,11 @@ jobs:
       - name: Generate the Snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: Berghtx
-          outputs: |
-            ./output/snake.svg
-          palette: github-dark
+  github_user_name: Berghtx
+  outputs: |
+    ./output/snake.svg
+  svg_template: .github/snk/template.svg
+
 
       - name: Commit and push the animation
         uses: EndBug/add-and-commit@v9
