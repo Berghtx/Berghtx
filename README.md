@@ -8,26 +8,47 @@
 
 <br>
 
-```cpp
-class Bernardo {
+<table>
+<tr>
+<td valign="top" width="58%">
+
+### 👨‍💻 About me
+
+<pre>
+<code class="language-cpp">class Bernardo {
 public:
     string degree = "Computer Engineering";
     string focus  = "Software Development";
-    string editor = "Visual Studio Code";
-    string theme  = "SynthWave '84";
 
-    vector<string> interests = {
+    vector&lt;string&gt; interests = {
         "Programming",
         "Software Engineering",
         "Web Development",
         "Mobile Development"
     };
-
-    void currentStatus() {
-        cout << "Learning, building and improving every day.";
-    }
 };
-```
+</code>
+</pre>
+
+</td>
+
+<td valign="top" width="42%">
+
+### ⚡ Currently
+
+🎓 Computer Engineering
+
+💻 Building personal and academic projects
+
+📚 Improving my development skills
+
+🔮 VS Code: **SynthWave '84**
+
+🐧 Exploring Linux & development tools
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -61,31 +82,21 @@ public:
 
 <br>
 
-## ⚡ Currently
-
-🎓 Studying Computer Engineering
-
-💻 Developing academic and personal projects
-
-📚 Improving my programming and software development skills
-
-🔮 Coding with **SynthWave '84**
-
-<br>
-
-## 🛠️ Development Environment
+### 🛠️ Tools
 
 <p>
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio Code"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio Code"/>
   &nbsp;&nbsp;&nbsp;
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub"/>
   &nbsp;&nbsp;&nbsp;
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux"/>
 </p>
 
 <br>
 
-## 🔗 LinkedIn
+### 🔗 Connect with me
 
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/Bernardo_Gomes_de_Aguiar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -93,8 +104,8 @@ public:
 
 <br><br>
 
----
-
-### `> code • learn • build • repeat_`
+<sub>
+  <code>code • learn • build • repeat_</code>
+</sub>
 
 </div>
