@@ -2,97 +2,120 @@
 
 # Bernardo Gomes de Aguiar
 
-### Computer Engineering Student & Developer
+### 💻 Computer Engineering Student
 
-`C++` • `Java` • `JavaScript` • `React Native` • `SQL` • `PHP`
+<p>
+  Software Development • Technology • Problem Solving
+</p>
 
 <br>
 
-<a href="https://beacons.ai/Berghtx">
-  <img src="https://img.shields.io/badge/BERGHTX-Profile-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Bernardo%20Gomes%20de%20Aguiar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</div>
+<br><br>
+
+---
+
+## 👨‍💻 About Me
+
+<p>
+🎓 Computer Engineering student
+</p>
+
+<p>
+💡 Interested in software development, programming and technology
+</p>
+
+<p>
+🚀 Building academic and personal projects
+</p>
+
+<p>
+🔮 VS Code Theme: <b>SynthWave '84</b>
+</p>
 
 <br>
 
-## About me
+---
 
-```cpp
-class Bernardo {
-public:
-    string degree = "Computer Engineering";
-    string focus = "Software Development";
-    string editor = "Visual Studio Code";
-    string theme = "SynthWave '84";
-
-    vector<string> interests = {
-        "Programming",
-        "Software Engineering",
-        "Web Development",
-        "Mobile Development"
-    };
-};
-```
+## 🚀 Tech Stack
 
 <br>
 
-## Tech Stack
-
-<div align="center">
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-&nbsp;&nbsp;
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-&nbsp;&nbsp;
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-&nbsp;&nbsp;
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-&nbsp;&nbsp;
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-&nbsp;&nbsp;
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-&nbsp;&nbsp;
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-&nbsp;&nbsp;
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
-&nbsp;&nbsp;
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
-</div>
+<p>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++"/>
+     
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java"/>
+     
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"/>
+     
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML"/>
+     
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS"/>
+</p>
 
 <br>
 
-## GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Berghtx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4ECD&icon_color=8A2BE2&text_color=C9D1D9" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berghtx&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4ECD&text_color=C9D1D9" />
-
-</div>
-
-<br>
-
-## Contact
-
-<div align="center">
-
-<a href="mailto:bernardogomes146@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://beacons.ai/Berghtx">
-  <img src="https://img.shields.io/badge/Links-0D1117?style=for-the-badge&logo=linktree&logoColor=FF4ECD"/>
-</a>
-
-</div>
+<p>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React Native"/>
+     
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP"/>
+     
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" title="Ruby"/>
+     
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL"/>
+     
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"/>
+</p>
 
 <br>
 
-<div align="center">
+---
 
-`> code. learn. build.`
+## 🛠️ Tools
+
+<br>
+
+<p>
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio Code"/>
+     
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub"/>
+     
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux"/>
+</p>
+
+<br>
+
+---
+
+## 📚 Currently
+
+<p>
+💻 Improving my programming and software development skills
+</p>
+
+<p>
+📖 Studying Computer Engineering
+</p>
+
+<p>
+⚙️ Working on academic and personal projects
+</p>
+
+<br>
+
+---
+
+### 🔗 Connect with me
+
+<a href="https://www.linkedin.com/">   <img src="https://img.shields.io/badge/Bernardo%20Gomes%20de%20Aguiar-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
+<br><br>
+
+<sub>
+💜 <b>Code • Learn • Build</b>
+</sub>
 
 </div>
