@@ -80,8 +80,6 @@ public:
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux"/>
 </p>
 
-<br>
-
 
 <br>
 
