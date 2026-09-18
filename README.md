@@ -1,46 +1,98 @@
 <div align="center">
 
-👋 Hi, I'm Bernardo Gomes de Aguiar
-💻 Computer Engineering Student • Developer • Technology Enthusiast
+# Bernardo Gomes de Aguiar
 
-<p> Passionate about software development, problem solving and building useful projects. </p>
+### Computer Engineering Student & Developer
 
-<p> <a href="https://beacons.ai/Berghtx"> <img src="https://img.shields.io/badge/Links-Beacons-6C63FF?style=for-the-badge&logo=linktree&logoColor=white" alt="Beacons"/> </a> <a href="mailto:bernardogomes146@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
+`C++` • `Java` • `JavaScript` • `React Native` • `SQL` • `PHP`
+
+<br>
+
+<a href="https://beacons.ai/Berghtx">
+  <img src="https://img.shields.io/badge/BERGHTX-Profile-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
-👨‍💻 About Me
-🎓 Computer Engineering student
-💡 Interested in software development, technology and problem solving
-🛠️ Building projects to improve my programming skills
-📚 Always learning new technologies and concepts
-🔮 VS Code theme: SynthWave '84
-🚀 Tech Stack
-Languages
+<br>
 
-<p> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/> </p>
+## About me
 
-Web & Mobile
+```cpp
+class Bernardo {
+public:
+    string degree = "Computer Engineering";
+    string focus = "Software Development";
+    string editor = "Visual Studio Code";
+    string theme = "SynthWave '84";
 
-<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/> </p>
+    vector<string> interests = {
+        "Programming",
+        "Software Engineering",
+        "Web Development",
+        "Mobile Development"
+    };
+};
+```
 
-Database & Tools
+<br>
 
-<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/> </p>
+## Tech Stack
 
-📌 Currently
-🎓 Studying Computer Engineering
-💻 Improving my software development skills
-🚀 Working on personal and academic projects
-📖 Learning something new every day
-📬 Let's Connect
+<div align="center">
 
-<div align="left">
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+&nbsp;&nbsp;
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+&nbsp;&nbsp;
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+&nbsp;&nbsp;
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+&nbsp;&nbsp;
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+&nbsp;&nbsp;
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+&nbsp;&nbsp;
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+&nbsp;&nbsp;
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
+&nbsp;&nbsp;
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
-<a href="https://www.instagram.com/otavio_silva8391/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a>
+</div>
 
-<a href="mailto:bernardogomes146@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a>
+<br>
 
-<a href="https://beacons.ai/Berghtx"> <img src="https://img.shields.io/badge/Beacons-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="Beacons"/> </a>
+## GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Berghtx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4ECD&icon_color=8A2BE2&text_color=C9D1D9" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berghtx&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4ECD&text_color=C9D1D9" />
+
+</div>
+
+<br>
+
+## Contact
+
+<div align="center">
+
+<a href="mailto:bernardogomes146@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://beacons.ai/Berghtx">
+  <img src="https://img.shields.io/badge/Links-0D1117?style=for-the-badge&logo=linktree&logoColor=FF4ECD"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+`> code. learn. build.`
 
 </div>
