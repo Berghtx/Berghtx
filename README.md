@@ -4,7 +4,7 @@
 
 ### 💻 Computer Engineering Student
 
-`Software Development` • `Technology` • `Problem Solving`
+`Software Development` • `Computational Modeling`
 
 <br>
 
@@ -18,13 +18,13 @@
 <code class="language-cpp">class Bernardo {
 public:
     string degree = "Computer Engineering";
-    string focus  = "Software Development";
+    string background = "Software Development";
+    string currentlyStudying = "Computational Modeling";
 
     vector&lt;string&gt; interests = {
-        "Programming",
-        "Software Engineering",
-        "Web Development",
-        "Mobile Development"
+        "Artificial Intelligence",
+        "Cloud Computing",
+        "Cybersecurity"
     };
 };
 </code>
@@ -36,15 +36,17 @@ public:
 
 ### ⚡ Currently
 
-🎓 Computer Engineering
+🎓 Studying Computer Engineering
 
-💻 Building personal and academic projects
+🧮 Learning Computational Modeling
 
-📚 Improving my development skills
+💻 Developing software projects
+
+📚 Expanding my technical background
+
+🔎 Interested in AI, Cloud & Cybersecurity
 
 🔮 VS Code: **SynthWave '84**
-
-🐧 Exploring Linux & development tools
 
 </td>
 </tr>
@@ -79,7 +81,6 @@ public:
   &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux"/>
 </p>
-
 
 <br>
 
