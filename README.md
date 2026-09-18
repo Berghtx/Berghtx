@@ -82,17 +82,6 @@ public:
 
 <br>
 
-### 🛠️ Tools
-
-<p>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio Code"/>
-  &nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub"/>
-  &nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"/>
-  &nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux"/>
-</p>
 
 <br>
 
